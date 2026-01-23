@@ -1,0 +1,19 @@
+{
+  "name": "hangman-server",
+  "version": "0.0.1",
+  "description": "A signaling server for hangman game",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lauravivan/hangman-server.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fastify": "^5.7.1"
+  }
+}
