@@ -43,6 +43,8 @@ In order to discover how two peers can connect, both clients need to provide an 
 
 ### Signaling server
 
-![Explanation of Peer-to-Peer connection with signaling server](/docs/assets/peer-to-peer-signaling.png)
+<div align="center">
+  <img src="/docs/assets/peer-to-peer-signaling.png" alt="Explanation of Peer-to-Peer connection with signaling server" width="500px" />
+</div>
 
 #### TURN-server build with EC2 AWS
